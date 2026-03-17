@@ -4,12 +4,12 @@
 This project analyzes employee attrition using SQL and R. The goal is to identify factors leading to employee turnover.
 
 ## Tools & Technologies
-- SQL (PostgreSQL / MySQL / SQLite)
-- R (tidyverse, ggplot2, dplyr)
+- SQL
+- R (dplyr, ggplot2, forcasts, tidyr, scales)
 - Data visualization
 
 ## Data
-The dataset contains anonymized employee records with columns like Age, Department, JobRole, Salary, Attrition, etc.
+The dataset contains anonymized employee records with columns like Age, DepartmentName, JobTitle, Salary, etc.
 
 ## Analysis
 1. SQL queries to explore trends in employee attrition
