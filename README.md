@@ -16,9 +16,8 @@ The dataset contains anonymized employee records with columns like Age, Departme
 2. R scripts for statistical analysis and visualization
 
 ## Key Findings
-- Are female more than male
-- Why do staff leave the company and how to reduce resignation
-- Each city have how many stores
-- Why customer service is needed
-- Why the resignation and retirement rate is high
+- Find Length of Service of an Employee for Each Department
+- Age Distribution for Each Department
+- Find People Between Age (25-55), Gender(M) Resignation
+- etc
 
